@@ -1,16 +1,19 @@
-### Hi there 👋
+# About Me
+[![Twitter](https://img.shields.io/badge/Twitter-%40PreciselyAlyss-1DA1F2)](https://twitter.com/PreciselyAlyss)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-2867B2)](https://www.linkedin.com/in/alyssnoland/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-PreciselyAlyss-6d2aff)](https://dev.to/preciselyalyss)
 
-<!--
-**PreciselyAlyss/PreciselyAlyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alyss (like "in Wonderland"). I work at GitHub as a product marketing director and I'm a lifelong developer advocate.
 
-Here are some ideas to get you started:
+## Projects
+- [GitHub Copilot](https://copilot.github.com/)
+- [GitHub Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+- [New GitHub Issues experience](https://github.blog/2021-06-23-introducing-new-github-issues/)
+- [GitHub Sponsors for Companies](https://github.blog/2020-12-08-new-from-universe-2020-dark-mode-github-sponsors-for-companies-and-more/)
+- [Octoverse 2020](https://octoverse.github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previous contributions to [Box Dev Docs](https://github.com/box/developer.box.com), [Slate](https://github.com/slatedocs/slate), [Widdershins](https://github.com/Mermade/widdershins), and more.
+
+## Non-work blog posts
+- [Slate, Swagger, and Silos: A documentation rebuild story (2017)](https://dev.to/preciselyalyss/slate-swagger-and-silos---a-documentation-rebuild-story-bif)
+- [Starting your skincare journey: facial cleansers (2018)](https://okalyss.com/skincare/2018/11/19/skincare-intro.html)
