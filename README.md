@@ -10,7 +10,8 @@ I'm Alyss (like "in Wonderland"). I work at GitHub as a product marketing direct
 - [GitHub Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
 - [New GitHub Issues experience](https://github.blog/2021-06-23-introducing-new-github-issues/)
 - [GitHub Sponsors for Companies](https://github.blog/2020-12-08-new-from-universe-2020-dark-mode-github-sponsors-for-companies-and-more/)
-- [Octoverse 2020](https://octoverse.github.com/)
+- [Octoverse 2020](https://octoverse.github.com/2020)
+- [Octoverse 2021 co-author](https://octoverse.github.com)
 
 Previous contributions to [Box Dev Docs](https://github.com/box/developer.box.com), [Slate](https://github.com/slatedocs/slate), [Widdershins](https://github.com/Mermade/widdershins), and more.
 
