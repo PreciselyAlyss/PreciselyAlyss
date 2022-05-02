@@ -16,5 +16,6 @@ I'm Alyss (like "in Wonderland"). I work at GitHub as a product marketing direct
 Previous contributions to [Box Dev Docs](https://github.com/box/developer.box.com), [Slate](https://github.com/slatedocs/slate), [Widdershins](https://github.com/Mermade/widdershins), and more.
 
 ## Non-work blog posts
+- [Unofficial guide to Slack literacy: communication in a remote-first world (2022)](https://dev.to/preciselyalyss/unofficial-guide-to-slack-literacy-navigating-communication-in-a-remote-first-world-dbd)
 - [Slate, Swagger, and Silos: A documentation rebuild story (2017)](https://dev.to/preciselyalyss/slate-swagger-and-silos---a-documentation-rebuild-story-bif)
 - [Starting your skincare journey: facial cleansers (2018)](https://okalyss.com/skincare/2018/11/19/skincare-intro.html)
