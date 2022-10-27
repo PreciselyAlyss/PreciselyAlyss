@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-In-2867B2)](https://www.linkedin.com/in/alyssnoland/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-PreciselyAlyss-6d2aff)](https://dev.to/preciselyalyss)
 
-I'm Alyss (like "in Wonderland"). I am the head of product marketing and developer relations^2 at Common Room, a intelligent community growth platform. I have previously worked for GitHub, Box, Atlassian, and BigCommerce. 
+I'm Alyss (like "in Wonderland"). I am a developer experience and marketing advisor. I have previously worked for GitHub, Box, Atlassian, and BigCommerce. 
 
 ## Projects
 - [GitHub Copilot](https://copilot.github.com/)
