@@ -5,6 +5,11 @@
 
 I'm Alyss (like "in Wonderland"). I am a developer experience and marketing advisor. I have previously worked for GitHub, Box, Atlassian, and BigCommerce. 
 
+## Blog posts & talks
+- [How to launch an AI startup - lessons from GitHub Copilot](https://www.heavybit.com/library/article/how-to-launch-an-ai-startup-github-copilot-lessons)
+- [DevRel 101: A guide for early teams](https://www.heavybit.com/library/article/devrel-101-a-getting-started-guide-for-early-teams)
+- [How to design a better billing system for your startup](https://www.heavybit.com/library/article/how-to-design-a-billing-system-for-your-startup)
+
 ## Projects
 - [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
