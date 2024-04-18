@@ -3,9 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-In-2867B2)](https://www.linkedin.com/in/alyssnoland/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-PreciselyAlyss-6d2aff)](https://dev.to/preciselyalyss)
 
-I'm Alyss (like "in Wonderland"). I am a developer experience and marketing advisor. I have previously worked for GitHub, Box, Atlassian, and BigCommerce. 
+I'm Alyss (like "in Wonderland"). I'm the principal product marketing manager for [Octo.ai](https://octo.ai/). I have previously worked for Honeycomb.io, GitHub, Box, Atlassian, and BigCommerce. 
 
 ## Blog posts & talks
+- [From labs to launch: stories from GitHub Copilot](https://www.heavybit.com/library/video/from-labs-to-launch-stories-from-github-copilot)
 - [How to launch an AI startup - lessons from GitHub Copilot](https://www.heavybit.com/library/article/how-to-launch-an-ai-startup-github-copilot-lessons)
 - [DevRel 101: A guide for early teams](https://www.heavybit.com/library/article/devrel-101-a-getting-started-guide-for-early-teams)
 - [How to design a better billing system for your startup](https://www.heavybit.com/library/article/how-to-design-a-billing-system-for-your-startup)
