@@ -6,6 +6,7 @@
 I'm Alyss (like "in Wonderland"). I'm the principal product marketing manager for [Octo.ai](https://octo.ai/). I have previously worked for Honeycomb.io, GitHub, Box, Atlassian, and BigCommerce. 
 
 ## Blog posts & talks
+- [Try Meta Llama 3 via OctoAI API](https://octo.ai/blog/try-meta-llama-3-via-the-octoai-api/)
 - [From labs to launch: stories from GitHub Copilot](https://www.heavybit.com/library/video/from-labs-to-launch-stories-from-github-copilot)
 - [How to launch an AI startup - lessons from GitHub Copilot](https://www.heavybit.com/library/article/how-to-launch-an-ai-startup-github-copilot-lessons)
 - [DevRel 101: A guide for early teams](https://www.heavybit.com/library/article/devrel-101-a-getting-started-guide-for-early-teams)
