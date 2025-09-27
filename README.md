@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-In-2867B2)](https://www.linkedin.com/in/alyssnoland/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-PreciselyAlyss-6d2aff)](https://dev.to/preciselyalyss)
 
-I'm Alyss (like "in Wonderland"). I'm the principal product marketing manager for [Octo.ai](https://octo.ai/). I have previously worked for Honeycomb.io, GitHub, Box, Atlassian, and BigCommerce. 
+I'm Alyss (like "in Wonderland"). Currently at a well known MANGA company, acquired into the org via Octo.ai. I have previously worked for Honeycomb.io, GitHub, Box, Atlassian, and BigCommerce. Founding marketer for GitHub Copilot tech preview and GA.
 
 ## Blog posts & talks
 - [Try Meta Llama 3 via OctoAI API](https://octo.ai/blog/try-meta-llama-3-via-the-octoai-api/)
